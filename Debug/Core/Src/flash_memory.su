@@ -1,0 +1,4 @@
+../Core/Src/flash_memory.c:4:6:WriteValuesToFlash	24	static
+../Core/Src/flash_memory.c:22:6:Flash_Erase	40	static
+../Core/Src/flash_memory.c:45:6:Flash_Write	24	static
+../Core/Src/flash_memory.c:59:6:ReadAllValuesFromFlash	40	static

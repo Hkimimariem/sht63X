@@ -1,0 +1,11 @@
+../Core/Src/sht.c:19:9:calculate_crc8	24	static
+../Core/Src/sht.c:35:6:SHT_write	32	static
+../Core/Src/sht.c:41:6:SHT_read	56	static
+../Core/Src/sht.c:70:6:SHT_reset	16	static
+../Core/Src/sht.c:89:13:SHT_resetCmd	32	static
+../Core/Src/sht.c:99:7:heater_on	32	static
+../Core/Src/sht.c:117:7:heater_off	32	static
+../Core/Src/sht.c:134:7:heater_on_off_with_delay	32	static
+../Core/Src/sht.c:164:7:SHT_writestatus	32	static
+../Core/Src/sht.c:170:7:read_status_register	32	static
+../Core/Src/sht.c:198:7:Clear_Status_Register	32	static
